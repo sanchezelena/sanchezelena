@@ -30,3 +30,9 @@ Soy **Elena Sánchez**, **Data Scientist** con experiencia en:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=api&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-4A154B?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
+## 📊 Estadísticas de GitHub  
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sanchezelena&show_icons=true&theme=radical)
